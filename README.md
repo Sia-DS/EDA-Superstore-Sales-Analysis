@@ -89,5 +89,5 @@ This project highlights the power of EDA in uncovering business-critical trends.
 
 **Sia Thakur**  
 Aspiring Data Analyst | Skilled in Python, SQL, and Data Visualization  
-📍 India | 🌐 [LinkedIn Profile Link]  
+ 
 
